@@ -12,15 +12,15 @@ This project analyzes personal finance data using Java. It reads transaction rec
 
 ## 📁 Project Structure
 Personal-Finance-Track-2024-2025/
-│
-├── Main.java                  # Application entry point
-├── FinanceAnalyzer.java       # Core finance analysis logic
-├── Transaction.java           # Transaction data model
-├── PersonalFinanceHist.csv    # Sample finance transaction data
-├── project_card.ipynb         # Jupyter notebook (exploration / notes)
-├── test.xlsx                  # Sample spreadsheet data
-├── *.class                    # Compiled Java bytecode
-└── .DS_Store                  # macOS system file
+- **Main.java** – Application entry point  
+- **FinanceAnalyzer.java** – Core finance analysis logic  
+- **Transaction.java** – Transaction data model  
+- **PersonalFinanceHist.csv** – Sample finance transaction data  
+- **project_card.ipynb** – Jupyter notebook (exploration / notes)  
+- **test.xlsx** – Sample spreadsheet data  
+- **\*.class** – Compiled Java bytecode  
+- **.DS_Store** – macOS system file
+
 
 ## 🚀 Features
 
