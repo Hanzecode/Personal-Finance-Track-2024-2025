@@ -17,7 +17,7 @@ Personal-Finance-Track-2024-2025/
 - **Transaction.java** – Transaction data model  
 - **PersonalFinanceHist.csv** – Sample finance transaction data  
 - **project_card.ipynb** – Jupyter notebook (exploration / notes)  
-- **test.xlsx** – Sample spreadsheet data  
+- **test.xlsx** – Raw data before cleaning  
 - **\*.class** – Compiled Java bytecode  
 - **.DS_Store** – macOS system file
 
